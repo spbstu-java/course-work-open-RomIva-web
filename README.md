@@ -15,7 +15,10 @@
 - 4 - ввод входных данных для методов
 
 ## Компиляция
-Х
+```
+javac -d . classes/gui/*.java classes/lab1/Hero/*.java classes/lab1/Movement/*.java classes/lab2/*.java classes/lab3/Exceptions/*.java classes/lab3/Model/*.java classes/lab4/*.java src/Main.java
+java src.Main
+```
 
 ## Меню приложения на основе лабораторных работ
 ### (Компьютерная игра) Лабораторная работа #1

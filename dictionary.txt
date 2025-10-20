@@ -1,0 +1,192 @@
+hello | привет
+goodbye | до свидания
+thank you | спасибо
+please | пожалуйста
+yes | да
+no | нет
+maybe | возможно
+understand | понимать
+speak | говорить
+listen | слушать
+read | читать
+write | писать
+learn | учить
+teach | преподавать
+work | работать
+play | играть
+eat | есть
+drink | пить
+sleep | спать
+wake up | просыпаться
+house | дом
+home | дом
+car | машина
+computer | компьютер
+phone | телефон
+book | книга
+pen | ручка
+paper | бумага
+water | вода
+food | еда
+time | время
+day | день
+night | ночь
+morning | утро
+evening | вечер
+week | неделя
+month | месяц
+year | год
+friend | друг
+family | семья
+good | хороший
+bad | плохой
+big | большой
+small | маленький
+new | новый
+old | старый
+young | молодой
+beautiful | красивый
+ugly | уродливый
+happy | счастливый
+sad | грустный
+fast | быстрый
+slow | медленный
+hot | горячий
+cold | холодный
+warm | теплый
+easy | легкий
+difficult | трудный
+look | смотреть
+look forward | ожидать
+look at | смотреть на
+look for | искать
+look after | присматривать за
+run | бежать
+run away | убегать
+run into | сталкиваться с
+take | брать
+take off | снимать
+take on | принимать на себя
+give | давать
+give up | сдаваться
+give in | уступать
+come | приходить
+come back | возвращаться
+come in | входить
+go | идти
+go away | уходить
+go back | возвращаться
+make | делать
+make up | выдумывать
+make out | разбирать
+break | ломать
+break down | ломаться
+break up | расставаться
+get | получать
+get up | вставать
+get out | выходить
+get in | входить
+put | класть
+put on | надевать
+put off | откладывать
+turn | поворачивать
+turn on | включать
+turn off | выключать
+turn up | появляться
+turn down | отказываться
+set | устанавливать
+set up | устанавливать
+set off | отправляться
+stand | стоять
+stand up | вставать
+stand for | означать
+sit | сидеть
+sit down | садиться
+open | открывать
+close | закрывать
+start | начинать
+begin | начинать
+finish | заканчивать
+end | кончать
+stop | останавливать
+continue | продолжать
+try | пытаться
+attempt | попытка
+want | хотеть
+need | нуждаться
+must | должен
+should | следует
+could | мог бы
+would | бы
+might | может
+may | может
+can | мочь
+red | красный
+blue | синий
+green | зеленый
+yellow | желтый
+black | черный
+white | белый
+brown | коричневый
+orange | оранжевый
+purple | фиолетовый
+pink | розовый
+one | один
+two | два
+three | три
+four | четыре
+five | пять
+six | шесть
+seven | семь
+eight | восемь
+nine | девять
+ten | десять
+monday | понедельник
+tuesday | вторник
+wednesday | среда
+thursday | четверг
+friday | пятница
+saturday | суббота
+sunday | воскресенье
+spring | весна
+summer | лето
+autumn | осень
+fall | осень
+winter | зима
+teacher | учитель
+doctor | врач
+engineer | инженер
+programmer | программист
+student | студент
+driver | водитель
+cook | повар
+waiter | официант
+apple | яблоко
+banana | банан
+bread | хлеб
+cheese | сыр
+meat | мясо
+fish | рыба
+rice | рис
+pasta | паста
+soup | суп
+salad | салат
+russia | россия
+usa | сша
+england | англия
+france | франция
+germany | германия
+spain | испания
+italy | италия
+china | китай
+japan | япония
+internet | интернет
+website | веб-сайт
+email | электронная почта
+password | пароль
+username | имя пользователя
+software | программное обеспечение
+hardware | аппаратное обеспечение
+database | база данных
+network | сеть
+server | сервер
